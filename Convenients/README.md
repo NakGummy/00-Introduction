@@ -25,7 +25,7 @@ LINE の進化版、真っ先に導入すべきはこれ。
 
 ## VSCode
 
-高機能テキストエディタ兼、プログラムコードエディター。  
+閲覧編集高機能テキストエディタ兼、プログラムコードエディター。  
 拡張機能というシステムによって、プログラムに関することはすべて対応しているといってもよい。  
 とりあえず下の動画を見れば 8 割使いこなせる。  
 [![Youtube](https://img.youtube.com/vi/Xwuhoh1UEuk/sddefault.jpg)](https://youtu.be/Xwuhoh1UEuk)
