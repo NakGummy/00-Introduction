@@ -5,22 +5,33 @@
 便利な技術、アプリをまとめたフォルダ。
 詳しい解説はそれぞれのフォルダの README.md 参照
 
+- ソフトウェア系
+
+  - [Discord](#discord)
+  - [VSCode](#vscode)
+  - [ClickUp](#clickup)
+
 - 作法系
-
   - [Markdown](#markdown)
-
   - [Mermaid](#mermaid)
 
-- ソフトウェア系
-  - [Discord](#discord)
-  - [ClickUp](#clickup)
+## Discord
+
+LINE の進化版
+
+## VSCode
+
+高機能テキストエディタ兼、プログラムコードエディター
+
+## ClickUp
 
 ## Markdown
 
-Markdown とは、決まった記法で記述することにより、テキストに装飾をかけられる言語、この説明の装飾も Markdown で書かれている
+Markdown とは、決まった記法で記述することにより、テキストに装飾をかけられる言語。  
+この説明の装飾も Markdown で書かれている
 
 [リンクを埋め込めたり](#markdown)、  
-<ins>下線</ins>・**強調**・~~取り消し線~~・*斜体*であったり  
+<ins>下線</ins>・**強調**・~~取り消し線~~・*斜体*にしたり  
 $\color{red}{色を付けたり、}$
 
 <p align="right">
@@ -51,9 +62,9 @@ $\color{red}{色を付けたり、}$
 <details>
   <summary>複数の要素を畳んだり</summary>
 
-- <kbd>あ</kbd>
-- <kbd>い</kbd>
-- <kbd>う</kbd>
+あ  
+い  
+う
 
 </details>
 
@@ -171,7 +182,3 @@ xychart-beta
 
 もっと複雑なものとかも可能。  
 作成は「.mmd」で作成して mermaid 記法で記述するだけでよい。
-
-## Discord
-
-## ClickUp
